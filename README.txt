@@ -1,4 +1,4 @@
-Crreate Config.json for working
+Create Config.json for working
 *******Example*****************
 {
   "token": "TOKEN",
